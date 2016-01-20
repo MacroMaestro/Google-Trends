@@ -9,7 +9,7 @@
 
 downloadDir="C:/Users/erik.johansson/Downloads"
 setwd(downloadDir)
-seach_word="FTSE 100"
+seach_word="stock market crash"
 
 
 URL_GT=function(keyword="", country=NA, region=NA, year=NA, month=1, length=3){
